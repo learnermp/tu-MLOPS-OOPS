@@ -1,2 +1,2 @@
 # tu-MLOPS-OOPS
-Just for revision and teaching my juniors
+Just for revision
