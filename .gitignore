@@ -1,7 +1,8 @@
 *.txt
 git_github.docx
-~$*.docx
 *.tmp
+*.docx
+~$*.docx
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
