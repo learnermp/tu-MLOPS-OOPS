@@ -1,3 +1,4 @@
+from oops_project import ChatBook
 lst = [1, 2, 3]
 my_str = "mlops"
 my_int = 5
@@ -19,6 +20,9 @@ a= 'x'
 b = 'y'
 print(a+b)
 
-from oops_project import ChatBook
+if __name__ == "__main__":
 
-user1 = ChatBook()
+    user2 = ChatBook()
+    user2.get_name()
+    user2.set_name("NewName")
+    user2.get_name()
