@@ -18,3 +18,7 @@ print(lst)
 a= 'x'
 b = 'y'
 print(a+b)
+
+from oops_project import ChatBook
+
+user1 = ChatBook()
